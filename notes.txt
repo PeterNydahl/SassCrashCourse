@@ -1,0 +1,11 @@
+▪ Skapa ett nytt projekt med en HTML-fil, fyll på med valfria element
+▪ Installera SASS-tillägg i VS Code.
+▪ Skapa en ny style.scss-fil
+▪ Använd style.scss-filen för att skriva SCSS-kod
+▪ Skapa två variabler med varsin färg
+▪ Ändra bakgrundsfärg och färg på något element med hjälp av
+variablerna
+
+▪ Skapa en huvudmeny och peka på alla underelement genom
+att använda det nästlade skrivsättet I SCSS.
+▪ Skriv kommentarer
